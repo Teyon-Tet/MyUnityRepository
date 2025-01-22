@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d75eba7-c90d-437c-97ae-6f4818a61845" name="Changes" comment="" />
+    <list default="true" id="5d75eba7-c90d-437c-97ae-6f4818a61845" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/UnityObjects/CD_Input.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/UnityObjects/CD_Input.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/ValueObjects/InputData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/ValueObjects/InputData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Keys/HorizontalInputParams.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Keys/HorizontalInputParams.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/InputManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/InputManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Signals/InputSignals.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Signals/InputSignals.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyUnityRepository/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyUnityRepository/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Commands/Level/OnLevelDestroyerCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Commands/Level/OnLevelDestroyerCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Commands/Level/OnLevelLoaderCommend.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Commands/Level/OnLevelLoaderCommend.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +103,8 @@
       <workItem from="1737328057103" duration="6669000" />
       <workItem from="1737335582389" duration="310000" />
       <workItem from="1737405326049" duration="4254000" />
+      <workItem from="1737492487283" duration="7378000" />
+      <workItem from="1737551094184" duration="5986000" />
     </task>
     <servers />
   </component>
